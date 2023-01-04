@@ -1,8 +1,8 @@
-# Hoyts Review Analysis Project
-This project aims to analyze customer reviews for a business and provide insights through data visualisation. It uses Python scripts that retrieve customer reviews from Google, preprocess the data and generate data visualisations.
+# Hoyts' Google Review Analysis
+This is a Python script that scrapes customer review data from Google, preprocess the data and generate wordclouds and a sentiment analysis line chart.
 
 ### Data
-For this project, Hoyts cinema Sunnybank was chosen to be the practice subject. The data for this project is a collection of customer reviews on Google, with each review containing a rating (on a scale of 1 to 5 stars), a review text, and the review date, stored in a CSV file.
+The script will collect customer Google review data on Hoyts Sunnybank, with each review containing a rating (on a scale of 1 to 5 stars), a review text, and the review date, stored in a CSV file.
 
 ### Data Preprocessing
 Before analyzing the data, some preprocessing was performed to clean and prepare the data for analysis. This included:

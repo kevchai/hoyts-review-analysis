@@ -20,6 +20,3 @@ Wordclouds were created to show the most commonly used words in the review text 
 
 #### Review Sentiment Over Time
 Using natural language processing, each review text was analysed and given a review sentiment score. A line plot was created to show the distribution of review sentiment over time. This allows us to see if there are any trends or patterns in the sentiment over time.
-
-## Conclusion
-Through data visualisation, we were able to gain insights into the customer reviews for the business. Further analysis could be performed to gain a deeper understanding of the customer experience and identify areas for improvement.
